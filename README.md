@@ -124,6 +124,8 @@ This project combines Natural Language Processing techniques with sociolinguisti
 - X-axis: timestamp; Y-axis: topic frequency
 - Heatmaps and trendlines reveal thematic popularity trends
 - Example: Spike in nostalgic themes for "Rice Field" during COVID era, showing music as collective healing
+- ![image](https://github.com/user-attachments/assets/7e1756ae-8ab6-49fd-b65d-f3eb4ebd6366)
+
 
 ---
 
